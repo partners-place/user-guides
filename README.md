@@ -1,26 +1,44 @@
-# Mintlify Starter Kit
+# Partners Place User Guides
 
-Use the starter kit to get your docs deployed and ready to customize.
+Comprehensive guides for Korean startups entering the U.S. market through Partners Place's business formation and sales solutions.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+## Overview
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+This documentation provides step-by-step guides for:
+- U.S. entity formation through Portal
+- Pop-up sales management through Outpost
+- Banking setup and compliance
+- Market entry strategies
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+Available in both English and Korean (한국어).
+
+## Services
+
+### Portal - U.S. Entity Formation
+Complete solution for establishing your U.S. business entity:
+- Delaware C-Corp or LLC formation
+- EIN registration
+- Business banking setup
+- Compliance management
+- $2,500 setup + $350/month
+
+### Outpost - Pop-up Sales Solution
+Sell at U.S. events without forming a U.S. entity:
+- Payment processing
+- Sales reconciliation
+- Direct Korean bank transfers
+- No U.S. tax obligations
+- 20% of sales + 3% card fees
 
 ## Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview documentation locally:
 
 ```
 npm i -g mint
 ```
 
-Run the following command at the root of your documentation, where your `docs.json` is located:
+Run the development server:
 
 ```
 mint dev
@@ -30,15 +48,17 @@ View your local preview at `http://localhost:3000`.
 
 ## Publishing changes
 
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
+Changes pushed to the main branch are automatically deployed to production.
 
-## Need help?
+## Contact
 
-### Troubleshooting
+**Partners Place, Inc.**  
+222 Broadway 22F, New York, NY 10038  
+Email: info@partners.place  
+Website: [partners.place](https://partners.place)
 
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
+## Resources
 
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
-- [Mintlify community](https://mintlify.com/community)
+- [Partners Place Website](https://partners.place)
+- [Event Calendar](https://partners.place/events)
+- [Contact Support](mailto:info@partners.place)
