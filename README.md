@@ -53,7 +53,7 @@ Changes pushed to the main branch are automatically deployed to production.
 ## Contact
 
 **Partners Place, Inc.**  
-222 Broadway 22F, New York, NY 10038  
+3435 Wilshire Blvd, STE 1400, Los Angeles, CA 90010  
 Email: info@partners.place  
 Website: [partners.place](https://partners.place)
 
